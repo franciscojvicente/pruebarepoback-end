@@ -18,4 +18,5 @@ module.exports = multer({
         cb("Error: el tipo de archivo no está permitido -"+ fileTypes);
     } // cb es callback
     // Esto solo seria la config inicial. Solo resta configurar la ruta en la que lo vamos a utilizar
+    // esto es multer
 })
