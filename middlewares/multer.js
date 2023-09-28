@@ -19,4 +19,5 @@ module.exports = multer({
     } // cb es callback
     // Esto solo seria la config inicial. Solo resta configurar la ruta en la que lo vamos a utilizar
     // esto es multer
+    // kmdskdmkdsmk
 })
